@@ -15,8 +15,7 @@ const Home = () => {
           </h2>
 
           <p className="text-gray-500 py-4 max-w-md">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam ex modi maiores dolorem, inventore excepturi magnam aliquid. Suscipit quo labore impedit harum consequatur rerum laboriosam consequuntur quae beatae libero! Odio?
-          </p>
+          I’m a Full Stack Developer specializing in both front-end and back-end technologies. I craft intuitive user experiences and build scalable web solutions. Skilled in HTML, CSS, JavaScript,Tailwind, React and server-side languages, I’m dedicated to solving problems and staying ahead in tech.  </p>
            
            <div>
             <Link to="portfolio" smooth duration={500} className=" group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer">
