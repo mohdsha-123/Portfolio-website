@@ -14,23 +14,13 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+           I'm a Full Stack Developer passionate about creating innovative and efficient web applications. With expertise in both front-end and back-end technologies, I design seamless user experiences and build robust server-side solutions. My skill set includes HTML, CSS, JavaScript frameworks, server-side languages, database management, and deployment practices. I thrive on solving complex problems and continuously learning to stay ahead in the tech landscape.
         </p>
 
         <br />
 
         <p className="text-xl pb-20 ">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
+          I’m passionate about building engaging and effective web applications. With a strong focus on problem-solving and delivering high-quality results, I thrive in collaborative environments and embrace new technologies with enthusiasm. My goal is to create impactful solutions that enhance user experiences and drive success.
         </p>
       </div>
     </div>
